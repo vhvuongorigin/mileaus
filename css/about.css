@@ -1,0 +1,16 @@
+.about__control{
+    display: flex;
+    margin: 50px 0;
+    align-items: center;
+}
+
+.about__content{
+    padding-left: 20px;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.about__content p{
+    margin: 7px 0;
+    color: black;
+}

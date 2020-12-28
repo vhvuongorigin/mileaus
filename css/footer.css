@@ -1,0 +1,23 @@
+footer{
+    background-color: rgb(59, 59, 59);
+}
+
+.footer__control{
+    padding: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.footer__control img{
+    width: 50px;
+    height: auto;
+}
+
+#policy a{
+    float: right;
+    color: #3B94A7;
+}
+
+#link-shopee{
+    margin: 0 auto;
+}

@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+
+    color: #3B94A7;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.header-product{
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px;
+    color: #3B94A7;
+
+    border-bottom: 2px solid #3B94A7;
+}
+
+#fixedbutton {
+    position: fixed;
+    bottom: 50px;
+    right: 100px; 
+}

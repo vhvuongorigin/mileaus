@@ -1,0 +1,42 @@
+.banner img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.banner__slide{
+    position: relative;
+}
+
+.banner__slide p{
+    position: absolute;
+
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    color: white;
+    font-size: 80px;
+}
+.banner__slide #banner1{
+    top: 100px;
+    left: 50px;
+}
+
+.banner__slide #banner2{
+    color: #3B94A7;
+    top: 200px;
+    right: 50px;
+    font-size: 60px;
+}
+
+.banner__slide #banner3{
+    top: 60px;
+    left: 50px;
+}
+slider__container {
+    position: relative;
+}
+
+.selling-products__control {
+    text-align: center;
+    margin: 40px 0;
+}
