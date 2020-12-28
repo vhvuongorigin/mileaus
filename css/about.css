@@ -14,3 +14,11 @@
     margin: 7px 0;
     color: black;
 }
+
+.about__content a{
+    color: #3B94A7;
+}
+
+.about__content a:hover{
+    color: #112C53;
+}
